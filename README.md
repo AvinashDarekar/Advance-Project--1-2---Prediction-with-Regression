@@ -39,11 +39,11 @@ This repository contains the implementation of two advanced projects focusing on
 
 6. **GitHub Repository:**
    - Named the repository "Prediction with Regression."
-   - Uploaded zip folders containing datasets, graphs, .ipynb files, presentations, and Word documents.
+   - Uploaded zip folders containing datasets, graphs, .ipynb files
 
 7. **Readme File:**
-   - Detailed information about both use cases, tools used, and insights gathered.
-   - Mentioned relevant keywords for easy searchability.
+   - Used pandas , numpy, seaborn , matplotlib.pyplot
+   - Jupyter notebook used to write Python a program
 
 ## Conclusion
 
