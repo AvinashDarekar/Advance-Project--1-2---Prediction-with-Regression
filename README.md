@@ -50,5 +50,3 @@ This repository contains the implementation of two advanced projects focusing on
 This repository serves as a comprehensive resource for anyone interested in regression modeling. The projects showcase a meticulous approach to the entire data science process, from initial exploration to model deployment.
 
 ---
-
-Feel free to customize this description based on specific details and outcomes from your projects.
